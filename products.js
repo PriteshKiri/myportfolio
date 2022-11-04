@@ -35,8 +35,8 @@ const displayProductItems = (items) => {
                     <div class="card__footer">
                       <h3>${product.title}</h3>
                     
-                      <a href="${product.live}" target="_blank"><button type="submit" class="product__btn"> <i class="fas fa-satellite-dish"></i><span>Live</span></button></a>
-                      <a href="${product.git}" target="_blank"><button type="submit" class="product__btn"> <i class="fab fa-github-alt"></i> <span>Git repo</span></button></a>
+                      <a href="${product.live}" target="_blank"><button  class="product__btn"> <i class="fas fa-satellite-dish"></i><span>Live</span></button></a>
+                      <a href="${product.git}" target="_blank"><button  class="product__btn"> <i class="fab fa-github-alt"></i> <span>Git repo</span></button></a>
                     </div>
                   </div>
                 

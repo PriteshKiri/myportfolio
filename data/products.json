@@ -1,14 +1,22 @@
 {
   "products": [
     {
-      "id": 13,
+      "id": 14,
       "title": "Indian recipes (Gatsby)",
       "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1660325066/my%20portfolio/indian_recipe_clngad.png",
       "live": "https://indianrecipes2022.netlify.app/",
       "git": "https://github.com/PriteshKiri/Gatsby-Recipe-Project"
     },
+
     {
       "id": 12,
+      "title": "Fade Recognition App (Full stack)",
+      "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1667580708/my%20portfolio/Screenshot_2022-11-04_222122_mibuyx.png",
+      "live": "https://face-recog-frontend-pf9nad3h1-priteshkiri.vercel.app/  ",
+      "git": "https://github.com/PriteshKiri/FACE-recog-frontend"
+    },
+    {
+      "id": 13,
       "title": "Advanced TODO list",
       "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1656596127/my%20portfolio/react_inbhrf.jpg",
       "live": "https://priteshkiri.github.io/todo-react/",
@@ -22,18 +30,35 @@
       "git": "https://github.com/PriteshKiri/mywebspotify"
     },
     {
-      "id": 1,
+      "id": 15,
+      "title": "JEF Techno (Freelance)",
+      "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1667582003/my%20portfolio/Screenshot_2022-11-04_224253_wmlkoh.png",
+      "live": "https://www.jeftechno.com/",
+      "git": "https://github.com/PriteshKiri/"
+    },
+
+    {
+      "id": 2,
+      "title": "30 Days 30 JS projects",
+      "image": "https://res.cloudinary.com/di3tuzgef/image/upload/v1642683025/ulead/portfolio/30daysjs_sbzbda.png",
+      "live": "https://priteshkiri.github.io/30-days-of-Javascript/",
+      "git": "https://github.com/PriteshKiri/30-days-of-Javascript"
+    },
+
+    {
+      "id": 13,
+      "title": "Nagamaletters (Freelance)",
+      "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1667582011/my%20portfolio/Screenshot_2022-11-04_224139_i1qcyl.png",
+      "live": "https://www.nagammasletters.org/",
+      "git": "https://github.com/PriteshKiri/"
+    },
+
+    {
+      "id": 13,
       "title": "Robo friend - React App",
       "image": "https://res.cloudinary.com/ddlhk5yje/image/upload/v1644934778/my%20portfolio/Pi7compressedrobofriend_z5i41f.png",
       "live": "https://priteshkiri.github.io/Robofriends-react-project/",
       "git": "https://github.com/PriteshKiri/Robofriends-react-project"
-    },
-    {
-      "id": 2,
-      "title": "30 Days JS code",
-      "image": "https://res.cloudinary.com/di3tuzgef/image/upload/v1642683025/ulead/portfolio/30daysjs_sbzbda.png",
-      "live": "https://priteshkiri.github.io/30-days-of-Javascript/",
-      "git": "https://github.com/PriteshKiri/30-days-of-Javascript"
     },
 
     {
